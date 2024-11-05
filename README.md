@@ -3,8 +3,8 @@
 ### 🎓 About Me
 I'm a dedicated software developer with experience in various technologies and a passion for creating impactful applications. My journey in coding has taken me through projects in web and mobile development, software testing, and even shared hosting business setups!
 
-- 💻 Completed **NVQ Level 4** and currently studying **NVQ 5 ICT Software Testing Module**
-- 📱 Working on apps like **Facebook** and **YouTube clones** using **Flutter** and **web technologies**
+- 💻 Completed **NVQ Level 4** and currently studying **NVQ 5 ICT**
+- 📱 Working on apps like **YouTube clones** using **Flutter** and **web technologies**
 - 🌱 Developing my **shared hosting business** with Azure and ISPConfig
 - 💼 Training at **Labeema Hospital** in Matara
 
