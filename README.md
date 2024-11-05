@@ -4,6 +4,8 @@
 
 I'm a passionate developer with a focus on web and mobile applications. Currently, I’m training at Labeema Hospital in Matara and working on various projects that combine my skills in software development and design.
 
+![Animated Developer GIF](https://media.giphy.com/media/3o7abBqF7tYzTQ0v5m/giphy.gif)
+
 ## 🌱 I’m currently learning
 
 - Software testing (NVQ 5 ICT)
@@ -30,3 +32,5 @@ I'm a passionate developer with a focus on web and mobile applications. Currentl
 - LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-profile)
 
 Feel free to connect with me!
+
+![Animation of GitHub Contributions](https://media.giphy.com/media/d1E1x3F2DJqgE3w3u0/giphy.gif)
