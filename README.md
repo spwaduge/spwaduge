@@ -1,36 +1,47 @@
-# Hi there, I'm Hewa Waduge Sandaru Priyashan! 👋
+# Hewa Waduge Sandaru Priyashan
+
+Welcome to my GitHub profile! Here you can find my projects and contributions to open-source software.
+
+## Contact Information
+
+![Email](https://github.com/HewaWaduge/SandaruPriyashan/raw/main/images/email.png)
+![LinkedIn](https://github.com/HewaWaduge/SandaruPriyashan/raw/main/images/linkedin.png)
+![GitHub](https://github.com/HewaWaduge/SandaruPriyashan/raw/main/images/github.png)
 
 ## About Me
 
-I'm a passionate developer with a focus on web and mobile applications. Currently, I’m training at Labeema Hospital in Matara and working on various projects that combine my skills in software development and design.
+I am a software developer with experience in various technologies, including web development, mobile applications, and database management. I enjoy creating efficient and user-friendly applications.
 
-![Animated Developer GIF](https://media.giphy.com/media/3o7abBqF7tYzTQ0v5m/giphy.gif)
+## Projects
 
-## 🌱 I’m currently learning
+### Project 1: Online Doctor Booking System
+- **Description**: A web application for booking doctor appointments.
+- **Technologies Used**: HTML, CSS, JavaScript, Bootstrap.
 
-- Software testing (NVQ 5 ICT)
-- Full-stack development with Flutter and Flask
-- Shared hosting setup using Azure
+### Project 2: Restaurant App
+- **Description**: A mobile app for viewing restaurant menus and placing orders.
+- **Technologies Used**: Flutter, Firebase.
 
-## 💼 Projects
+### Project 3: Social Media App
+- **Description**: A web application similar to Facebook.
+- **Technologies Used**: HTML, CSS, JavaScript, PHP, MySQL.
 
-- **[Restaurant App](link-to-your-project)**: A Flutter app with Firebase integration for user authentication and order management.
-- **[Doctor Booking System](link-to-your-project)**: An online booking system built with HTML, CSS, JavaScript, and Bootstrap.
-- **[YouTube TV Page](link-to-your-project)**: A project using HTML, CSS, and JavaScript to mimic a YouTube interface.
+## Skills
+- HTML, CSS, JavaScript
+- Python, PHP
+- Flutter, Firebase
+- MySQL, SQL Server
 
-## 🚀 Technologies & Tools
+## Contributing
 
-- **Languages**: HTML, CSS, JavaScript, PHP, Python
-- **Frameworks**: Bootstrap, Flask, Flutter
-- **Databases**: Firebase, MySQL
-- **Tools**: VSCode, Git, ISPConfig
+Contributions are welcome! If you want to contribute, please follow these steps:
 
-## 📫 How to reach me
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes and commit them (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a pull request.
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [username](https://github.com/username)
-- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-profile)
+## License
 
-Feel free to connect with me!
-
-![Animation of GitHub Contributions](https://media.giphy.com/media/d1E1x3F2DJqgE3w3u0/giphy.gif)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
