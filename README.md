@@ -1,47 +1,31 @@
-# Hewa Waduge Sandaru Priyashan
+# Project Name
 
-Welcome to my GitHub profile! Here you can find my projects and contributions to open-source software.
+A brief description of your project. Explain what it does and why it exists.
 
-## Contact Information
+## Table of Contents
 
-![Email](https://github.com/HewaWaduge/SandaruPriyashan/raw/main/images/email.png)
-![LinkedIn](https://github.com/HewaWaduge/SandaruPriyashan/raw/main/images/linkedin.png)
-![GitHub](https://github.com/HewaWaduge/SandaruPriyashan/raw/main/images/github.png)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## About Me
+## Features
 
-I am a software developer with experience in various technologies, including web development, mobile applications, and database management. I enjoy creating efficient and user-friendly applications.
+- Feature 1
+- Feature 2
+- Feature 3
 
-## Projects
+## Technologies Used
 
-### Project 1: Online Doctor Booking System
-- **Description**: A web application for booking doctor appointments.
-- **Technologies Used**: HTML, CSS, JavaScript, Bootstrap.
+- Technology 1
+- Technology 2
+- Technology 3
 
-### Project 2: Restaurant App
-- **Description**: A mobile app for viewing restaurant menus and placing orders.
-- **Technologies Used**: Flutter, Firebase.
+## Installation
 
-### Project 3: Social Media App
-- **Description**: A web application similar to Facebook.
-- **Technologies Used**: HTML, CSS, JavaScript, PHP, MySQL.
-
-## Skills
-- HTML, CSS, JavaScript
-- Python, PHP
-- Flutter, Firebase
-- MySQL, SQL Server
-
-## Contributing
-
-Contributions are welcome! If you want to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/username/repository.git
