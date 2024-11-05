@@ -1,30 +1,30 @@
-# Project Name
+# 🚀 Project Name
 
 A brief description of your project. Explain what it does and why it exists.
 
-## Table of Contents
+## 📖 Table of Contents
 
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [✨ Features](#features)
+- [🛠️ Technologies Used](#technologies-used)
+- [⚙️ Installation](#installation)
+- [🚀 Usage](#usage)
+- [🤝 Contributing](#contributing)
+- [📜 License](#license)
+- [📬 Contact](#contact)
 
-## Features
+## ✨ Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- ✅ Feature 1
+- ✅ Feature 2
+- ✅ Feature 3
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-- Technology 1
-- Technology 2
-- Technology 3
+- 🔧 Technology 1
+- 🔧 Technology 2
+- 🔧 Technology 3
 
-## Installation
+## ⚙️ Installation
 
 1. Clone the repository:
    ```bash
